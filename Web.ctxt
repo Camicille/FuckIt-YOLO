@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Web
+comment0.text=\n\ object\ Spider\ creates\n\ \n\ @author\ Philip\ Jepkes\ \n\ @version\ (v1)\n
+comment1.params=
+comment1.target=Web()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ Web\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=3

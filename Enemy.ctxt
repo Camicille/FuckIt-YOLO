@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Enemy
+comment0.text=\n\ SuperClass\ of\ Badguys\n\ To-do\ inheritance\ certralized\ methods\ utilized\ by\ all\ subclasses\n\ @author\ Philip\ Jepkes\n\ @version\ (V1.0)\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ Enemy\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=arrayHealthIndex
+comment2.target=void\ removeFromDmg(int)
+comment3.params=arrayDmgIndex
+comment3.target=void\ dealDmg(int)
+comment4.params=
+comment4.target=void\ trimWhite()
+comment4.text=\ Tyler\ added\ this\ for\ transparency\n\ trims\ white\ from\ images\n
+numComments=5

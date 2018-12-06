@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MushTest
+comment0.text=\n\ \n\ \n\ @author\ Camille\ Otillio\ \n\ @version\ 1\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ Projectile_1End\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=void\ initializeImages()
+comment3.params=
+comment3.target=void\ grow()
+comment4.params=
+comment4.target=void\ witchJump()
+numComments=5

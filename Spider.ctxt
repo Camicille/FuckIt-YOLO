@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Spider
+comment0.text=\n\ Spider\:\ That\ will\ drop\ and\ wiggle\ \n\ To\ do\ fall\ from\ branch\ quickly\ then\ ascend\ slowly\ creating\ a\ string\n\ @author\ Philip\ Jepkes\n\ @version\ (V0)\n
+comment1.params=spawnLocationY\ travelDistance
+comment1.target=Spider(int,\ int)
+comment2.params=
+comment2.target=Spider()
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\n\ Act\ -\ do\ whatever\ the\ Spider\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment4.params=
+comment4.target=void\ movement()
+comment5.params=
+comment5.target=void\ damage()
+comment6.params=
+comment6.target=void\ checkForSally()
+comment7.params=
+comment7.target=void\ createWeb()
+numComments=8

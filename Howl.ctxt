@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Howl
+comment0.text=\n\ Howl\ projectile\ that\ will\ grow\ in\ size\n\ created\ upon\ howl\ attack\ will\ move\ in\ direction\ and\ grow\ in\ size\ over\ few\ act\ cycles\n\ @author\ (Philip\ Jepkes)\ \n\ @version\ (v0)\n
+comment1.params=
+comment1.target=Howl()
+comment2.params=velocity
+comment2.target=Howl(Vector)
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\n\ Act\ -\ do\ whatever\ the\ Howl\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment4.params=
+comment4.target=void\ travel()
+comment5.params=
+comment5.target=void\ damage()
+comment6.params=
+comment6.target=void\ initializeImages()
+comment7.params=
+comment7.target=void\ grow()
+numComments=8

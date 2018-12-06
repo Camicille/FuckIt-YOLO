@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=HealthCounter
+comment0.text=\n\ An\ object\ that\ displays\ an\ image\ representing\ the\ player's\ health.\n\ \n\ @author\ Chandler\ Clarke\n\ @version\ Alpha\ 1.0\n
+comment1.params=
+comment1.target=HealthCounter()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ HealthCounter\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment3.params=
+comment3.target=void\ drawImages()
+comment4.params=
+comment4.target=void\ initializeImages()
+comment5.params=
+comment5.target=void\ easterEgg()
+numComments=6

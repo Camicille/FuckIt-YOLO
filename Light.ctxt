@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Light
+comment0.text=\n\ class\ Light\:\ for\ LIT\ objects\n\ \n\ @author\ Tyler\ Bakeman\n\ @version\ 1.02\ 11/28/18\n
+comment1.params=size
+comment1.target=Light(int)
+numComments=2

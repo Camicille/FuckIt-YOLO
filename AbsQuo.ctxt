@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=AbsQuo
+comment0.text=\n\ class\ AbsQuo\:\n\ -A\ Quotient;\ for\ denominator\ polls,\ return\ the\ numerator\n\ \n\ @author\ Tyler\ Bakeman\n\ @version\ 1.02\ 11/28/18\n
+comment1.params=
+comment1.target=AbsQuo()
+comment2.params=numer
+comment2.target=AbsQuo(int)
+comment3.params=numer\ denom
+comment3.target=AbsQuo(int,\ int)
+comment4.params=decimal
+comment4.target=AbsQuo(double)
+comment5.params=decimal\ precision
+comment5.target=AbsQuo(double,\ int)
+comment6.params=
+comment6.target=int\ poll()
+numComments=7

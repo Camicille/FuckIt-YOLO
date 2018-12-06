@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=PotionCounter
+comment0.text=\n\ An\ object\ that\ displays\ an\ image\ representing\ what\ potions\ are\ currently\ in\ inventory.\n\ \n\ @author\ Chandler\ Clarke\n\ @version\ Alpha\ 1.0\n
+comment1.params=potionType
+comment1.target=PotionCounter(int)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ PotionCounter\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment3.params=
+comment3.target=void\ drawImages()
+numComments=4

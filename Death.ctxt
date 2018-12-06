@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Death
+comment0.text=\n\ Death\:\ An\ removal\ animation\ that\ will\ exist\ when\ enemies\ are\ removed\n\ \n\ @author\ Philip\ Jepkes\ \ Ed\ Parrish\ \n\ @version\ (V0)\n
+comment1.params=imageSelect
+comment1.target=Death(int)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ Death\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment3.params=
+comment3.target=void\ fade()
+comment4.params=
+comment4.target=void\ initializeImages()
+numComments=5

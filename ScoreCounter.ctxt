@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ScoreCounter
+comment0.text=\n\ An\ object\ that\ displays\ an\ image\ representing\ the\ player's\ score.\n\ \n\ @author\ Chandler\ Clarke\n\ @version\ Alpha\ 1.0\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ ScoreCounter\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=void\ updateScore()
+comment3.params=
+comment3.target=void\ showScore()
+numComments=4

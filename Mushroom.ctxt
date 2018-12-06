@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Mushroom
+comment0.text=\n\ Grows\ to\ help\ the\ witch\ Jump\n\ \n\ @author\ Camille\ Otillio\ (with\ some\ code\ from\ Ed\ Parrish)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ initializeImages()
+comment3.params=
+comment3.target=void\ grow()
+comment4.params=
+comment4.target=void\ shrink()
+comment5.params=
+comment5.target=void\ witchJump()
+numComments=6
